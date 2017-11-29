@@ -1,0 +1,27 @@
+body {
+	background-image: url("../images/congruent_pentagon.png")
+}
+
+#crystalCollector{
+	background-image: url("../images/crystals.jpg")
+}
+
+#jumboh1{
+	color: white;
+}
+
+#numberOfWins{
+	color: white;
+}
+
+#numberOfLosses{
+	color: white;
+}
+
+.panel-body{
+	background-color: #b3f5cc;
+}
+
+#topPanel1{
+	background-color: #ebfcd6;
+}

@@ -1,5 +1,3 @@
-
-
 var blueValue = 0;
 var purpleValue = 0;
 var yellowValue = 0;
